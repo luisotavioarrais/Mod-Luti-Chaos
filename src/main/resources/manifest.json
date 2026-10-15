@@ -1,0 +1,17 @@
+{
+  "Group": "LutiPlay",
+  "Name": "LutiChaos",
+  "Version": "1.0.0",
+  "Main": "me.rcbaito.hytale.plugin.randomchaos",
+  "Authors": [
+    {
+      "Name": "LutiPlay"
+    },
+    {
+      "Name": "RCBaito (Random Chaos original)"
+    }
+  ],
+  "Website": "https://github.com/rcbaito/randomchaos",
+  "IncludesAssetPack": true,
+  "ServerVersion": "=0.7.1"
+}

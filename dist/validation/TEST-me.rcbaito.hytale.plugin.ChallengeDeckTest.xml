@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.rcbaito.hytale.plugin.ChallengeDeckTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-14T19:32:40.326Z" hostname="LUTI" time="0.008">
+  <properties/>
+  <testcase name="disabledEntriesAreSkippedAndRemovedFromDenominator()" classname="me.rcbaito.hytale.plugin.ChallengeDeckTest" time="0.002"/>
+  <testcase name="allEventsAreDrawnExactlyOnceAndThenRunEnds()" classname="me.rcbaito.hytale.plugin.ChallengeDeckTest" time="0.005"/>
+  <testcase name="resetStartsANewRunAndEmptyRunEndsImmediately()" classname="me.rcbaito.hytale.plugin.ChallengeDeckTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.rcbaito.hytale.plugin.ChaosCoreTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-14T19:32:40.336Z" hostname="LUTI" time="0.042">
+  <properties/>
+  <testcase name="singleEventIsSkippedInsteadOfRepeated()" classname="me.rcbaito.hytale.plugin.ChaosCoreTest" time="0.0"/>
+  <testcase name="stallDoesNotCreateCatchUpBurst()" classname="me.rcbaito.hytale.plugin.ChaosCoreTest" time="0.0"/>
+  <testcase name="instantDeathRequiresOptIn(Path)" classname="me.rcbaito.hytale.plugin.ChaosCoreTest" time="0.025"/>
+  <testcase name="neverRepeatsConsecutively()" classname="me.rcbaito.hytale.plugin.ChaosCoreTest" time="0.005"/>
+  <testcase name="safeConfigurationDefaults(Path)" classname="me.rcbaito.hytale.plugin.ChaosCoreTest" time="0.003"/>
+  <testcase name="thirtyRealSeconds()" classname="me.rcbaito.hytale.plugin.ChaosCoreTest" time="0.001"/>
+  <testcase name="configurationValidationAndIndividualSwitches(Path)" classname="me.rcbaito.hytale.plugin.ChaosCoreTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

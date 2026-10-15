@@ -1,0 +1,49 @@
+Group {
+  Anchor: (Width: 300, Height: 184, Top: 24, Right: 24);
+  Background: #17202b(0.8);
+  LayoutMode: Top;
+  Label #Timer {
+    Anchor: (Height: 26, Left: 10);
+    Text: "LUTI CHAOS | 30s";
+    Style: (FontSize: 16, TextColor: #ffffff, RenderBold: true);
+  }
+  Group {
+    Anchor: (Width: 280, Height: 6, Left: 10);
+    Background: #354052;
+    Group #ChaosProgressBar { Anchor: (Width: 280, Height: 6); Background: #58dcac; }
+  }
+  Label #ChallengeCount {
+    Anchor: (Height: 20, Left: 10);
+    Text: "Desafio 0/12";
+    Style: (FontSize: 12, TextColor: #58dcac, RenderBold: true);
+  }
+  Label #Event {
+    Anchor: (Height: 28, Left: 10);
+    Text: "Aguardando primeiro evento";
+    Style: (FontSize: 13, TextColor: #ffffff);
+  }
+  Label #Description1 {
+    Anchor: (Height: 18, Left: 10);
+    Text: "Um evento será sorteado em breve.";
+    Style: (FontSize: 12, TextColor: #c4d2df);
+  }
+  Label #Description2 {
+    Anchor: (Height: 18, Left: 10);
+    Text: "";
+    Style: (FontSize: 12, TextColor: #c4d2df);
+  }
+  Label #Warning {
+    Anchor: (Height: 24, Left: 10);
+    Text: "Prepare-se! Novo evento chegando";
+    Style: (FontSize: 12, TextColor: #ffd166);
+    Visible: false;
+  }
+  Label #Speed {
+    Anchor: (Height: 20, Left: 10);
+    Text: "";
+    Style: (FontSize: 11, TextColor: #58dcac);
+    Visible: false;
+  }
+}
+
+

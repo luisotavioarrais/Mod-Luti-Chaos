@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.rcbaito.hytale.events.MlgLandingTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-14T19:32:39.653Z" hostname="LUTI" time="0.003">
+  <properties/>
+  <testcase name="jumpingImmediatelyAfterLandingAlsoEndsSteering()" classname="me.rcbaito.hytale.events.MlgLandingTest" time="0.002"/>
+  <testcase name="waterLandingEndsSteering()" classname="me.rcbaito.hytale.events.MlgLandingTest" time="0.0"/>
+  <testcase name="initialGroundDoesNotCancelTeleportButLandingDoes()" classname="me.rcbaito.hytale.events.MlgLandingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
